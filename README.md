@@ -1,0 +1,10 @@
+# :rocket:IN THIS REPOSITORY
+## 🛢SQLBolt :
+|                                                                                                                                                   SQL                                                                                                                                                    |                                                                                                                                                                     MySQL                                                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications. | MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and manipulating structured data. It falls under the category of relational databases, which means it stores data in tables with predefined schemas, and it supports SQL (Structured Query Language) for querying and managing the data |
+------
+
++ Totally 18 lesson with examples and solved all the questions 
+
+
